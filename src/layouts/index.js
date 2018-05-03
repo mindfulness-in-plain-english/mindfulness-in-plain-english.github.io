@@ -6,13 +6,12 @@ import './index.css'
 
 const Layout = ({ children, data }) => (
   <div>
-    <Helmet
-      title={data.site.siteMetadata.title}
-      meta={[
-        { name: 'description', content: 'Modern web publication of the free version of the book Mindfulness in Plain English' },
-        { name: 'keywords', content: 'mindfulness, plain, english, meditation, vipassana, free' },
-      ]}
-    />
+    <Helmet>
+      <title>{data.site.siteMetadata.title}</title>
+      <link rel="stylesheet" href="https://unpkg.com/tachyons@4.9.1/css/tachyons.min.css" />
+      <meta name="description" description="Modern web publication of the free version of the book Mindfulness in Plain English"/>
+      <meta name="keywords" description="mindfulness, plain, english, meditation, vipassana, free" />
+    </Helmet>
     <div>
       {children()}
     </div>
