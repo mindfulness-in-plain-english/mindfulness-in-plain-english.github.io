@@ -7,10 +7,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 
     return graphql(`
         {
-            allMarkdownRemark(
-                sort: { order: DESC, fields: [frontmatter___date] }
-                limit: 1000
-            ) {
+            allMarkdownRemark(limit: 1000) {
                 edges {
                     node {
                         frontmatter {
@@ -29,7 +26,9 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
             createPage({
                 path: node.frontmatter.path,
                 component: chapterTemplate,
-                context: {} // additional data can be passed via context
+                context: {
+                    slug: node.frontmatter.path
+                } // additional data can be passed via context
             });
         });
     });
