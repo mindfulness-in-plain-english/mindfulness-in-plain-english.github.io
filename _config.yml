@@ -1,0 +1,16 @@
+# Site settings
+title: Mindfulness in Plain English
+description: "Modern web publication of the free version of the book Mindfulness in Plain English" # > this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://mindfulness-in-plain-english.github.io" # the base hostname & protocol for your site
+github_username: Soreine
+permalink: pretty
+exlude:
+  - css/style.styl
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - working/
+
+# Build settings
+markdown: kramdown
