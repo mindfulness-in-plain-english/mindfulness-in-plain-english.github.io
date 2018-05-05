@@ -3,25 +3,18 @@
 
 {% include head.html %}
 
-<body>
-    
+<body class="serif">
+
     <div class="page">
 
-        <!-- HEADER -->
         {% include header.html %}
 
-        <!-- CONTENT -->
         <section>
-            <div class="content">
-                <div class="container">
-                    {{ content }}
-                </div> <!-- /container -->
-            </div> <!-- /content -->
+            {{ content }}
         </section>
 
-    </div> <!-- /page -->
+    </div>
 
-    <!-- FOOTER -->
     {% include footer.html %}
 </body>
 </html>
