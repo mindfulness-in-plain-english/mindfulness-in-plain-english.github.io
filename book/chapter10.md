@@ -1,4 +1,8 @@
-# Chapter 10: Dealing With Problems
+---
+layout: chapter
+chapter: 10
+title: Dealing With Problems
+---
 
 You are going to run into problems in your meditation. Everybody does. Problems come in all shapes and sizes, and the only thing you can be absolutely certain about is that you will have some. The main trick in dealing with obstacles is to adopt the right attitude. Difficulties are an integral part of your practice. They aren't something to be avoided. They are something to be used. They provide invaluable opportunities for learning.
 

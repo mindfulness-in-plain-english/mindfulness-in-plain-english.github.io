@@ -1,4 +1,8 @@
-# Chapter 12: Dealing with Distractions - II
+---
+layout: chapter
+chapter: 12
+title: Dealing with Distractions - II
+---
 
 So there you are meditating beautifully. Your body is totally immobile, and you mind is totally still. You just glide right along following the flow of the breath, in, out, in, out...calm, serene and concentrated. Everything is perfect. And then, all of a sudden, something totally different pops into your mind: "I sure wish I had an ice cream cone." That's a distraction, obviously. That's not what you are supposed to be doing. You notice that, and you drag yourself back to the breath, back to the smooth flow, in, out, in...and then: "Did I ever pay that gas bill?" Another distraction. You notice that one, and you haul yourself back to the breath. In, out, in, out, in..."That new science fiction movie is out. Maybe I can go see it Tuesday night. No, not Tuesday, got too much to do on Wednesday. Thursday's better..." Another distraction. You pull yourself out of that one and back you go to the breath, except that you never quite get there because before you do that little voice in your head goes, "My back is killing me." And on and on it goes, distraction after distraction, seemingly without end.
 

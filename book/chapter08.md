@@ -1,4 +1,8 @@
-# Chapter 8: Structuring Your Meditation
+---
+layout: chapter
+chapter: 8
+title: Structuring Your Meditation
+---
 
 Everything up to this point has been theory. Now let's dive into the actual practice. Just how do we go about this thing called meditation.
 

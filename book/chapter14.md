@@ -1,4 +1,8 @@
-# Chapter 14: Mindfulness Versus Concentration
+---
+layout: chapter
+chapter: 14
+title: Mindfulness Versus Concentration
+---
 
 Vipassana meditation is something of a mental balancing act. You are going to be cultivating two separate qualities of the mind--mindfulness and concentration. Ideally these two work together as a team. They pull in tandem, so to speak. Therefore it is important to cultivate them side-by-side and in a balanced manner. If one of the factors is strengthened at the expense of the other, the balance of the mind is lost and meditation impossible.
 

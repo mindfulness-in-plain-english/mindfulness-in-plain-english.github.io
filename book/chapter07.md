@@ -1,4 +1,8 @@
-# Chapter 7: What To Do With Your Mind
+---
+layout: chapter
+chapter: 7
+title: What To Do With Your Mind
+---
 
 The meditation we teach is called __Insight Meditation__. As we have already said, the variety of possible objects of meditation is nearly unlimited, and human beings have used an enormous number down through the ages. Even within the Vipassana tradition there are variances. There are meditation teachers who teach their students to follow the breath by watching the rise and fall of the abdomen. Others recommend focusing attention on the touch of the body against the cushion, or hand against hand, or the feeling of one leg against the other. The method we are explaining here, however, is considered the most traditional and is probably what Gotama Buddha taught his students. The Satipatthana Sutta, the Buddha's original discourse on mindfulness, specifically says that one must begin by focusing the attention on the breathing and then go on to note all other physical and mental phenomena which arise.
 

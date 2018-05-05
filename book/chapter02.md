@@ -1,4 +1,8 @@
-# Chapter 2: What Meditation Isn't
+---
+layout: chapter
+chapter: 2
+title: What Meditation Isn't
+---
 
 Meditation is a word. You have heard this word before, or you would never have picked up this book. The thinking process operates by association, and all sorts of ideas are associated with the word 'meditation'. Some of them are probably accurate and others are hogwash. Some of them pertain more properly to other systems of meditation and have nothing to do with Vipassana practice. Before we proceed, it behooves us to blast some of the residue out of our own neuronal circuits so that new information can pass unimpeded. Let us start with some of the most obvious stuff.
 
