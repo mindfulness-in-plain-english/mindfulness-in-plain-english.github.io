@@ -1,0 +1,11 @@
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+
+.underline-hover:hover {
+    text-decoration: none;
+    padding-bottom: 0.05em;
+    border-bottom: 0.1em solid;
+}

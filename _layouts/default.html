@@ -3,17 +3,12 @@
 
 {% include head.html %}
 
-<body class="serif">
+<body class="serif bg-white dark-gray pa4 lh-copy">
+    {% include header.html %}
 
-    <div class="page">
-
-        {% include header.html %}
-
-        <section>
-            {{ content }}
-        </section>
-
-    </div>
+    <section>
+        {{ content }}
+    </section>
 
     {% include footer.html %}
 </body>
