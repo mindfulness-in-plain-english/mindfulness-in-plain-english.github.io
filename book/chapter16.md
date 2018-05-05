@@ -1,7 +1,7 @@
 ---
 layout: chapter
 chapter: 16
-title: What's In It For You
+title: "What's In It For You"
 ---
 
 You can expect certain benefits from your meditation. The initial ones are practical, prosaic things; the later stages are profoundly transcendent. They run together from the simple to the sublime. We will set forth some of them here. Your own experience is all that counts.

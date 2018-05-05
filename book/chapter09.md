@@ -1,7 +1,7 @@
 ---
 layout: chapter
 chapter: 9
-title: Set Up Exercises
+title: "Set Up Exercises"
 ---
 
 In Theravada Buddhist countries, it is traditional to begin each meditation session with the recitation of a certain set of formulas. An American audience is likely to take one glance at these invocations and to dismiss them as harmless rituals and nothing more. The so-called rituals, however, have been devised and refined by a set of pragmatic and dedicated men and women, and they have a thoroughly practical purpose. They are therefore worthy of deeper inspection.

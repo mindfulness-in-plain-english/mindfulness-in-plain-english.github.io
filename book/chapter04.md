@@ -1,7 +1,7 @@
 ---
 layout: chapter
 chapter: 4
-title: Attitude
+title: "Attitude"
 ---
 
 Within the last century, Western science and physics have made a startling discovery. We are part of the world we view. The very process of our observation changes the things we observe. As an example, an electron is an extremely tiny item. It cannot be viewed without instrumentation, and that apparatus dictates what the observer will see. If you look at an electron in one way, it appears to be a particle, a hard little ball that bounces around in nice straight paths. When you view it another way, an electron appears to be a wave form, with nothing solid about it. It glows and wiggles all over the place. An electron is an event more than a thing. And the observer participates in that event by the very process of his or her observation. There is no way to avoid this interaction.

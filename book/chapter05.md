@@ -1,7 +1,7 @@
 ---
 layout: chapter
 chapter: 5
-title: The Practice
+title: "The Practice"
 ---
 
 Although there are many subjects of meditation, we strongly recommend you start with focusing your total undivided attention on your breathing to gain some degree of shallow concentration. Remember that you are not practicing a deep absorption or pure concentration technique. You are practicing mindfulness for which you need only a certain degree of shallow concentration. You want to cultivate mindfulness culminating in insight and wisdom to realize the truth as it is. You want to know the working of your body-mind complex exactly as it is. You want to get rid of all psychological annoyance to make your life really peaceful and happy.

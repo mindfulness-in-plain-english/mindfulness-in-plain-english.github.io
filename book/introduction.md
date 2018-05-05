@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction: American Buddhism
+title: "Introduction: American Buddhism"
 ---
 
 The subject of this book is Vipassana meditation practice. Repeat, practice. This is a meditation manual, a nuts-and-bolts, step-by-step guide to Insight meditation. It is meant to be practical. It is meant for use.

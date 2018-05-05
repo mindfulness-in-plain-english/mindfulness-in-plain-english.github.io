@@ -1,7 +1,7 @@
 ---
 layout: chapter
 chapter: 3
-title: What Meditation Is
+title: "What Meditation Is"
 ---
 
 Meditation is a word, and words are used in different ways by different speakers. This may seem like a trivial point, but it is not. It is quite important to distinguish exactly what a particular speaker means by the words he uses. Every culture on earth, for example, has produced some sort of mental practice which might be termed meditation. It all depends on how loose a definition you give to that word. Everybody does it, from Africans to Eskimos. The techniques are enormously varied, and we will make no attempt to survey them. There are other books for that. For the purpose of this volume, we will restrict our discussion to those practices best known to Western audiences and most likely associated with the term meditation.
