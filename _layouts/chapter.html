@@ -1,8 +1,13 @@
----
-layout: default
----
-<article>
-    <h1>Chapter {{ page.chapter }}: {{ page.title }}</h1>
+<!DOCTYPE html>
+<html lang="en">
 
-    {{ content }}
-</article>
+{% include head.html %}
+
+<body class="serif bg-white dark-gray pa4 lh-copy">
+    <section>
+        {{ content }}
+    </section>
+
+    {% include footer.html %}
+</body>
+</html>

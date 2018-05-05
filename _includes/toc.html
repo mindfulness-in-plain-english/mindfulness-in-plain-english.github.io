@@ -1,11 +1,9 @@
 <nav>
   <ul class="list">
     {% for page in site.pages %}
-    {% if page.chapter %}
-    <li class="f4 lh-title mb3">
-      <a class="link underline-hover dark-gray" href="{{ page.url }}">{{ page.title }}</a>
-    </li>
-    {% endif %}
+      {% if page.chapter %}
+        {% include toc-entry.html url=page.url title=page.title %}
+      {% endif %}
     {% endfor %}
   </ul>
 </nav>
