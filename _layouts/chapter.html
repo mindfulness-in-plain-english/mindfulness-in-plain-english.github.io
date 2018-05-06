@@ -4,6 +4,10 @@
 {% include head.html %}
 
 <body class="serif bg-white dark-gray pa4 lh-copy">
+    {% include prev-next.html current=page %}
+
+    <h1>{{ page.title }}</h1>
+    
     <section>
         {{ content }}
     </section>

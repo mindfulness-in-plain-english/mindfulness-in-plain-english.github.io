@@ -1,0 +1,13 @@
+{% assign prevChapter = include.current.chapter | minus: 1 %}
+{% assign nextChapter = include.current.chapter | plus: 1 %}
+
+{% for chapter in site.pages %}
+  {% if chapter.chapter %}
+    {% if chapter.chapter == prevChapter %}
+    <a class="db" href="{{ chapter.url }}">{{ chapter.title }} ← </a>
+    {% endif %}
+    {% if chapter.chapter == nextChapter %}
+    <a class="db" href="{{ chapter.url }}"> → {{ chapter.title }}</a>
+    {% endif %}
+  {% endif %}
+{% endfor %}
