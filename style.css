@@ -4,10 +4,19 @@ li {
     padding: 0;
 }
 
+.outline-none:focus {
+    outline: none;
+}
+
+.underline-hover {
+    padding-bottom: 0.05em;
+    border-bottom: 1px solid transparent;
+}
+.underline-hover:focus,
 .underline-hover:hover {
     text-decoration: none;
-    padding-bottom: 0.05em;
-    border-bottom: 0.1em solid;
+    transition: border-color 0.1s;
+    border-bottom: 1px solid;
 }
 
 .serif {
