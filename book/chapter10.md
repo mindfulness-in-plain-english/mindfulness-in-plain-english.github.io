@@ -62,11 +62,11 @@ Vipassana meditation is primarily an exercise in awareness. Emptying the mind is
 
 It is difficult to imagine anything more inherently boring than sitting still for an hour with nothing to do but feel the air going in and out of your nose. You are going to run into boredom repeatedly in your meditation. Everybody does. Boredom is a mental state and should be treated as such. A few simple strategies will help you to cope.
 
-###Tactic A: Re-establish true mindfulness
+### Tactic A: Re-establish true mindfulness
 
 If the breath seems an exceedingly dull thing to observe over and over, you may rest assured of one thing: You have ceased to observe the process with true mindfulness. Mindfulness is never boring. Look again. Don't assume that you know what breath is. Don't take it for granted that you have already seen everything there is to see. If you do, you are conceptualizing the process. You are not observing its living reality. When you are clearly mindful of breath or indeed anything else, it is never boring. Mindfulness looks at everything with the eyes of a child, with the sense of wonder. Mindfulness sees every second as if it were the first and the only second in the universe. So look again.
 
-###Tactic B: Observe your mental state
+### Tactic B: Observe your mental state
 
 Look at your state of boredom mindfully. What is boredom? Where is boredom? What does it feel like? What are its mental component? Does it have any physical feeling? What does it do to your thought process? Take a fresh look at boredom, as if you have never experienced that state before.
 
