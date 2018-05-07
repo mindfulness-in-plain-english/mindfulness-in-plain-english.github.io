@@ -9,3 +9,10 @@ li {
     padding-bottom: 0.05em;
     border-bottom: 0.1em solid;
 }
+
+h2 {
+    /* f5 */
+    font-size: 1rem;
+    /* mt4 */
+    margin-top: 2rem;
+}

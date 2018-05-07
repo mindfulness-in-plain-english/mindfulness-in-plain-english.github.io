@@ -1,7 +1,7 @@
 ---
 layout: chapter
 chapter: 1
-title: "Meditation: Why bother?"
+title: "Meditation: why bother?"
 ---
 
 Meditation is not easy. It takes time and it takes energy. It also takes grit, determination and discipline. It requires a host of personal qualities which we normally regard as unpleasant and which we like to avoid whenever possible. We can sum it all up in the American word 'gumption'. Meditation takes 'gumption'. It is certainly a great deal easier just to kick back and watch television. So why bother? Why waste all that time and energy when you could be out enjoying yourself? Why bother? Simple. Because you are human. And just because of the simple fact that you are human, you find yourself heir to an inherent unsatisfactoriness in life which simply will not go away. You can suppress it from your awareness for a time. You can distract yourself for hours on end, but it always comes back--usually when you least expect it. All of a sudden, seemingly out of the blue, you sit up, take stock, and realize your actual situation in life.
