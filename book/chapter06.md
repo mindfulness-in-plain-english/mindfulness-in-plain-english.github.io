@@ -1,7 +1,7 @@
 ---
 layout: chapter
 chapter: 6
-title: "What To Do With Your Body"
+title: "What to do with your body"
 ---
 
 The practice of meditation has been going on for several thousand years. That is quite a bit of time for experimentation, and the procedure has been very, very thoroughly refined. Buddhist practice has always recognized that the mind and body are tightly linked and that each influences the other. Thus there are certain recommended physical practices which will greatly assist you to master your skill. And these practices should be followed. Keep in mind, however, that these postures are practice aids. Don't confuse the two. Meditation does not mean sitting in the lotus position. It is a mental skill. It can be practiced anywhere you wish. But these postures will help you learn this skill and they speed your progress and development. So use them.
@@ -22,15 +22,13 @@ When you are sitting on the floor in the traditional Asian manner, you need a cu
 
 There are a number of ways you can fold your legs. We will list four in ascending order of preference.
 
+1.  American indian style. Your right foot is tucked under the left knee and left foot is tucked under your right knee.
 
-1. American indian style. Your right foot is tucked under the left knee and left foot is tucked under your right knee.
+2.  Burmese style. Both of your legs lie flat on the floor from knee to foot. They are parallel with each other and one in front of the other.
 
-2. Burmese style. Both of your legs lie flat on the floor from knee to foot. They are parallel with each other and one in front of the other.
+3.  Half lotus. Both knees touch the floor. One leg and foot lie flat along the calf of the other leg.
 
-3. Half lotus. Both knees touch the floor. One leg and foot lie flat along the calf of the other leg.
-
-4. Full lotus. Both knees touch the floor, and your legs are crossed at the calf. Your left foot rests on the right thigh, and your right foot rests on the left thigh. Both soles turn upward.
-
+4.  Full lotus. Both knees touch the floor, and your legs are crossed at the calf. Your left foot rests on the right thigh, and your right foot rests on the left thigh. Both soles turn upward.
 
 In these postures, your hands are cupped one on the other, and they rest on your lap with the palms turned upward. The hands lie just below the navel with the bend of each wrist pressed against the thigh. This arm position provides firm bracing for the upper body. Don't tighten your neck muscles. Relax your arms. Your diaphragm is held relaxed, expanded to maximum fullness. Don't let tension build up in the stomach area. Your chin is up. Your eyes can be open or closed. If you keep them open, fix them on the tip of your nose or in the middle distance straight in front. You are not looking at anything. You are just putting your eyes in some arbitrary direction where there is nothing in particular to see, so that you can forget about vision. Don't strain. Don't stiffen and don't be rigid. Relax; let the body be natural and supple. Let it hang from the erect spine like a rag doll.
 

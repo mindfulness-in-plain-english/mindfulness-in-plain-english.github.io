@@ -1,7 +1,7 @@
 ---
 layout: chapter
 chapter: 16
-title: "What's In It For You"
+title: "What's in it for you"
 ---
 
 You can expect certain benefits from your meditation. The initial ones are practical, prosaic things; the later stages are profoundly transcendent. They run together from the simple to the sublime. We will set forth some of them here. Your own experience is all that counts.
@@ -34,4 +34,4 @@ You find nothing. In all that collection of mental hardware in this endless stre
 
 Your whole view of self changes at this point. You begin to look upon yourself as if you were a newspaper photograph. When viewed with the naked eyes, the photograph you see is a definite image. When viewed through a magnifying glass, it all breaks down into an intricate configuration of dots. Similarly, under the penetrating gaze of mindfulness, the feeling of self, an 'I' or 'being' anything, loses its solidity and dissolves. There comes a point in insight meditation where the three characteristics of existence--impermanence, unsatisfactoriness and selflessness-- come rushing home with concept-searing force. You vividly experience the impermanence of life, the suffering nature of human existence, and the truth of no self. You experience these things so graphically that you suddenly awake to the utter futility of craving, grasping and resistance. In the clarity and purity of this profound moment, our consciousness is transformed. The entity of self evaporates. All that is left is an infinity of interrelated non-personal phenomena which are conditioned and ever changing. Craving is extinguished and a great burden is lifted. There remains only an effortless flow, without a trace of resistance or tension. There remains only peace, and blessed Nibbana, the uncreated, is realized.
 
-__* (End) *__
+**_ (End) _**

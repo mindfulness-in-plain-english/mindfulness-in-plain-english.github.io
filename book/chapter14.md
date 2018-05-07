@@ -1,7 +1,7 @@
 ---
 layout: chapter
 chapter: 14
-title: "Mindfulness Versus Concentration"
+title: "Mindfulness versus concentration"
 ---
 
 Vipassana meditation is something of a mental balancing act. You are going to be cultivating two separate qualities of the mind--mindfulness and concentration. Ideally these two work together as a team. They pull in tandem, so to speak. Therefore it is important to cultivate them side-by-side and in a balanced manner. If one of the factors is strengthened at the expense of the other, the balance of the mind is lost and meditation impossible.
@@ -45,4 +45,3 @@ Thus the two factors tend to balance and support each other's growth quite natur
 Mindfulness guides your development in meditation because mindfulness has the ability to be aware of itself. It is mindfulness which will give you a perspective on your practice. Mindfulness will let you know how you are doing. But don't worry too much about that. This is not a race. You are not in competition with anybody, and there is no schedule.
 
 One of the most difficult things to learn is that mindfulness is not dependent on any emotional or mental state. We have certain images of meditation. Meditation is something done in quiet caves by tranquil people who move slowly. Those are training conditions. They are set up to foster concentration and to learn the skill of mindfulness. Once you have learned that skill, however, you can dispense with the training restrictions, and you should. You don't need to move at a snail's pace to be mindful. You don't even need to be calm. You can be mindful while solving problems in intensive calculus. You can be mindful in the middle of a football scrimmage. You can even be mindful in the midst of a raging fury. Mental and physical activities are no bar to mindfulness. If you find your mind extremely active, then simply observe the nature and degree of that activity. It is just a part of the passing show within.
-

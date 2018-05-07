@@ -1,7 +1,7 @@
 ---
 layout: chapter
 chapter: 9
-title: "Set Up Exercises"
+title: "Set up exercises"
 ---
 
 In Theravada Buddhist countries, it is traditional to begin each meditation session with the recitation of a certain set of formulas. An American audience is likely to take one glance at these invocations and to dismiss them as harmless rituals and nothing more. The so-called rituals, however, have been devised and refined by a set of pragmatic and dedicated men and women, and they have a thoroughly practical purpose. They are therefore worthy of deeper inspection.
@@ -12,7 +12,7 @@ The Buddha was considered contrary in his own day. He was born into an intensely
 
 Meditation is a tough job. It is an inherently solitary activity. One person battles against enormously powerful forces, part of the very structure of the mind doing the meditating. When you really get into it, you will eventually find yourself confronted with a shocking realization. One day you will look inside and realize the full enormity of what you are actually up against. What you are struggling to pierce looks like a solid wall so tightly knit that not a single ray of light shines through. You find yourself sitting there, staring at this edifice and you say to yourself, "That? I am supposed to get past that? But it's impossible! That is all there is. That is the whole world. That is what everything means, and that is what I use to define myself and to understand everything around me, and if I take that away the whole world will fall apart and I will die. I cannot get through that. I just can't."
 
-It is a very scary feeling, a very lonely feeling. You feel like, "Here I am, all alone, trying to punch away something so huge it is beyond conception." To counteract this feeling, it is useful to know that you are not alone. Others have passed this way before. They have confronted that same barrier, and they have pushed their way through to the light. They have laid out the rules by which the job can be done, and they have banded together into a brotherhood for mutual encouragement and support. The __Buddha__ found his way through this very same wall, and after him came many others. He left clear instructions in the form of the __Dhamma__ to guide us along the same path. And he founded the __Sangha__, the brotherhood of monks to preserve that path and to keep each other on it. You are not alone, and the situation is not hopeless.
+It is a very scary feeling, a very lonely feeling. You feel like, "Here I am, all alone, trying to punch away something so huge it is beyond conception." To counteract this feeling, it is useful to know that you are not alone. Others have passed this way before. They have confronted that same barrier, and they have pushed their way through to the light. They have laid out the rules by which the job can be done, and they have banded together into a brotherhood for mutual encouragement and support. The **Buddha** found his way through this very same wall, and after him came many others. He left clear instructions in the form of the **Dhamma** to guide us along the same path. And he founded the **Sangha**, the brotherhood of monks to preserve that path and to keep each other on it. You are not alone, and the situation is not hopeless.
 
 Meditation takes energy. You need courage to confront some pretty difficult mental phenomena and the determination to sit through various unpleasant mental states. Laziness just will not serve. In order to pump up your energy for the job, repeat the following statements to yourself. Feel the intention you put into them. Mean what you say.
 
@@ -30,30 +30,28 @@ You start out by banishing thoughts of self-hatred and self- condemnation. You a
 
 At the beginning of each meditation session, say the following sentences to yourself. Really feel the intention:
 
+1.  May I be well, happy and peaceful. May no harm come to me. May no difficulties come to me. May no problems come to me. May I always meet with success. May I also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
 
-1. May I be well, happy and peaceful. May no harm come to me. May no difficulties come to me. May no problems come to me. May I always meet with success. May I also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
+2.  May my parents be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
+    May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
 
-2. May my parents be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
-May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
+3.  May my teachers be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
+    May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
 
-3. May my teachers be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
-May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
+4.  May my relatives be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
+    May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
 
-4. May my relatives be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
-May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
+5.  May my friends be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
+    May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
 
-5. May my friends be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
-May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
+6.  May all indifferent persons be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
+    May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
 
-6. May all indifferent persons be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
-May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
+7.  May my enemies be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
+    May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
 
-7. May my enemies be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
-May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
-
-8. May all living beings be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
-May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
-
+8.  May all living beings be well, happy and peaceful. May no harm come to them. May no difficulties come to them. May no problems come to them. May they always meet with success.
+    May they also have patience, courage, understanding, and determination to meet and overcome inevitable difficulties, problems, and failures in life.
 
 Once you have completed these recitations, lay aside all your troubles and conflicts for the period of practice. Just drop the whole bundle. If they come back into your meditation later, just treat them as what they are, distractions.
 
