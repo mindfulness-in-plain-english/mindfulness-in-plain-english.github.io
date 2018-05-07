@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: chapter
+chapter: 0
 title: "Introduction: American Buddhism"
 ---
 

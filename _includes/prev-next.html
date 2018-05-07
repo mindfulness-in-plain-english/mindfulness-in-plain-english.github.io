@@ -2,7 +2,9 @@
 {% assign prevChapterNumber = include.current.chapter | minus: 1 %}
 {% assign nextChapterNumber = include.current.chapter | plus: 1 %}
 
-{% for chapter in site.pages %}
+{% assign chapters = site.pages | where:'layout','chapter' | sort:'chapter' %}
+
+{% for chapter in chapters %}
 {% if chapter.chapter == prevChapterNumber %}
 {% assign prevChapter = chapter %}
 {% elsif chapter.chapter == nextChapterNumber %}
@@ -11,10 +13,10 @@
 {% endfor %}
 
 <!-- Add previous and next links -->
-<nav class="flex flex-wrap f6 fw3 ttu tracked">
+<nav class="flex flex-wrap f6 fw3 ttu tracked mt5">
     {% if prevChapter.url %}
-      <a class="bt b--light-silver flex justify-center items-center w-100 pv3 pr3 tl serif link gray hover-dark-gray" href="{{ prevChapter.url }}" style="height: 5em;">
-          <span class="sans-serif">←</span> {{ prevChapter.title }}
+      <a class="bt b--light-silver flex justify-start items-center w-100 pv3 pr3 tl serif link gray hover-dark-gray" href="{{ prevChapter.url }}" style="height: 5em;">
+          <span class="sans-serif mr2">←</span>{{ prevChapter.title }}
       </a>
     {% else %}
       <span></span>
@@ -24,9 +26,9 @@
 
 
     {% if nextChapter.url %}
-      <a class="bt b--light-silver flex justify-center items-center w-100 tr pv3 pl3 serif link gray hover-dark-gray" href="{{ nextChapter.url }}"
+      <a class="bt b--light-silver flex justify-end items-center w-100 tr pv3 pl3 serif link gray hover-dark-gray" href="{{ nextChapter.url }}"
       style="height: 5em;">
-          {{ nextChapter.title }} <span class="sans-serif">→</span>
+          {{ nextChapter.title }}<span class="sans-serif ml2">→</span>
       </a>
     {% else %}
       <span></span>

@@ -1,9 +1,8 @@
 <nav>
   <ul class="list">
-    {% for page in site.pages %}
-      {% if page.chapter %}
-        {% include toc-entry.html url=page.url title=page.title %}
-      {% endif %}
+    {% assign chapters = site.pages | where:'layout','chapter' | sort:'chapter' %}
+    {% for page in chapters %}
+      {% include toc-entry.html url=page.url title=page.title %}
     {% endfor %}
   </ul>
 </nav>

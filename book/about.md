@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: chapter
+chapter: -1
 title: "About the Author"
 ---
 
