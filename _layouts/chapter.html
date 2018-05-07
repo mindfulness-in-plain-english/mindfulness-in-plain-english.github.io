@@ -4,13 +4,18 @@
 {% include head.html %}
 
 <body class="serif bg-white dark-gray pa4 lh-copy">
-    {% include prev-next.html current=page %}
 
-    <h1>{{ page.title }}</h1>
-    
+    <nav>
+        <a class="f6 sans-serif normal ttu tracked link underline-hover dark-gray" href="{{ site.url }}/">{{ site.title }}</a>
+    </nav>
+
+    <h1 class="f3 lh-title fw6 mv4">{{ page.title }}</h1>
+
     <section>
-        {{ content }}
+        <!-- {{ content }} -->
     </section>
+
+    {% include prev-next.html current=page %}
 
     {% include footer.html %}
 </body>
