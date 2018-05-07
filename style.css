@@ -81,6 +81,12 @@ h3 {
         border-right: 1px solid;
         border-left: 1px solid;
     }
+    .x-top:first-child {
+        border-left: none;
+    }
+    .x-top:last-child {
+        border-right: none;
+    }
     .x-previous,
     .x-next {
         width: 40%;

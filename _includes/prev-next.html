@@ -18,8 +18,6 @@
       <a class="bt b--light-silver flex justify-start items-center w-100 pv3 pr3 tl serif link outline-none gray hover-dark-gray hover-bg-nearest-white x-previous" href="{{ prevChapter.url }}" style="height: 5em;">
           <span class="sans-serif mr2">←</span>{{ prevChapter.title }}
       </a>
-    {% else %}
-      <span></span>
     {% endif %}
 
     <a href="{{ site.url }}/" class="bt b--light-silver flex justify-center items-center tc w-100 pa3 serif link outline-none gray hover-dark-gray hover-bg-nearest-white x-top" style="height: 5em;">Top</a>
@@ -30,7 +28,5 @@
       style="height: 5em;">
           {{ nextChapter.title }}<span class="sans-serif ml2">→</span>
       </a>
-    {% else %}
-      <span></span>
     {% endif %}
 </nav>
