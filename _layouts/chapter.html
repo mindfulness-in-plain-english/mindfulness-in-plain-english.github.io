@@ -3,16 +3,17 @@
 
 {% include head.html %}
 
-<body class="serif measure-wide bg-white dark-gray f5 pa4 lh-copy">
+<body class="serif container mw7 bg-white dark-gray f5 pa4 lh-copy">
+    <div class="measure-wide">
+        {% include header.html %}
 
-    {% include header.html %}
+        <h1 class="f3 lh-title fw6 mv4">{{ page.title }}</h1>
 
-    <h1 class="f3 lh-title fw6 mv4">{{ page.title }}</h1>
+        <section class="tj-ns" style="hyphens: auto">
+            {{ content }}
+        </section>
 
-    <section class="tj-ns" style="hyphens: auto">
-        {{ content }}
-    </section>
-
-    {% include prev-next.html current=page %}
+        {% include prev-next.html current=page %}
+    </div>
 </body>
 </html>

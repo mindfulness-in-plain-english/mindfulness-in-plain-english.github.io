@@ -3,18 +3,9 @@
 
 {% include head.html %}
 
-<body class="serif measure-wide bg-white dark-gray pa4 lh-copy">
-    <header>
-        <h1 class="tc lh-solid ma0 mt5 mb6">
-            <span class="f2 fw3 serif tracked">Mindfulness<br /></span>
-            <span class="f4 fw3 sans-serif ttu tracked">in Plain English</span>
-        </h1>
-    </header>
-
-    {{ content }}
-
-    <footer class="sans-serif f6 mt6 tc">
-        <a class="link gray dim" href="{{ site.url }}/electronic_distribution_agreement/">Copyright and Distribution Agreement</a>
-    </footer>
+<body class="serif container mw7 bg-white dark-gray pa4 lh-copy">
+    <div class="measure-wide">
+        {{ content }}
+    </div>
 </body>
 </html>
