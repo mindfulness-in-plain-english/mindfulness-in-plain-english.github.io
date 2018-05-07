@@ -1,6 +1,6 @@
 ---
 layout: chapter
-chapter: -1
+chapter: -2
 title: "About the author"
 ---
 

@@ -10,7 +10,7 @@ In preparing this book I have been helped by many of my friends. I am deeply gra
 
 H. Gunaratana Mahathera
 
-Bhavana Society
-Rt. 1 Box 218-3
-High View, WV 26808
-December 7, 1990
+Bhavana Society<br/>
+Rt. 1 Box 218-3<br/>
+High View, WV 26808<br/>
+December 7, 1990<br/>
