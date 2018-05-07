@@ -76,6 +76,7 @@ h3 {
 
 @media screen and (min-width: 40em) {
     .x-top {
+        font-size: 0.875rem;
         width: 20%;
         flex: 0 0 auto;
         border-right: 1px solid;
@@ -89,6 +90,7 @@ h3 {
     }
     .x-previous,
     .x-next {
+        font-size: 0.875rem;
         width: 40%;
         flex: 1 1 auto;
     }
