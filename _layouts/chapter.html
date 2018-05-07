@@ -3,11 +3,9 @@
 
 {% include head.html %}
 
-<body class="serif bg-white dark-gray pa4 lh-copy">
+<body class="serif bg-white dark-gray f5 pa4 lh-copy">
 
-    <nav>
-        <a class="f6 sans-serif normal ttu tracked link underline-hover dark-gray" href="{{ site.url }}/">{{ site.title }}</a>
-    </nav>
+    {% include header.html %}
 
     <h1 class="f3 lh-title fw6 mv4">{{ page.title }}</h1>
 
@@ -16,7 +14,5 @@
     </section>
 
     {% include prev-next.html current=page %}
-
-    {% include footer.html %}
 </body>
 </html>

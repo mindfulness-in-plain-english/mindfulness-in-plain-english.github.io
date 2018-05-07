@@ -2,7 +2,7 @@
   <ul class="list">
     {% assign chapters = site.pages | where:'layout','chapter' | sort:'chapter' %}
     {% for page in chapters %}
-      {% include toc-entry.html url=page.url title=page.title %}
+      {% include toc-entry.html url=page.url title=page.title chapter=page.chapter %}
     {% endfor %}
   </ul>
 </nav>
