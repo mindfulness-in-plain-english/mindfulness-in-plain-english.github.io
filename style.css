@@ -10,11 +10,16 @@ li {
     border-bottom: 0.1em solid;
 }
 
+.serif {
+    font-family: Source Serif Pro, georgia, times, serif;
+}
+
 h2 {
     /* f5 */
     font-size: 1rem;
     /* mt4 */
     margin-top: 2rem;
+    font-weight: 600;
 }
 
 h3 {
@@ -22,4 +27,5 @@ h3 {
     font-size: 0.875rem;
     /* mt3 */
     margin-top: 1rem;
+    font-weight: 700;
 }
