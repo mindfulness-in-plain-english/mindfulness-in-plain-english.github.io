@@ -13,20 +13,20 @@
 {% endfor %}
 
 <!-- Add previous and next links -->
-<nav class="flex flex-wrap f6 fw3 ttu tracked mt5">
+<nav class="flex flex-wrap f7 fw3 ttu tracked mt5">
     {% if prevChapter.url %}
-      <a class="bt b--light-silver flex justify-start items-center w-100 pv3 pr3 tl serif link outline-none gray hover-dark-gray hover-bg-nearest-white" href="{{ prevChapter.url }}" style="height: 5em;">
+      <a class="bt b--light-silver flex justify-start items-center w-100 pv3 pr3 tl serif link outline-none gray hover-dark-gray hover-bg-nearest-white x-previous" href="{{ prevChapter.url }}" style="height: 5em;">
           <span class="sans-serif mr2">←</span>{{ prevChapter.title }}
       </a>
     {% else %}
       <span></span>
     {% endif %}
 
-    <a href="{{ site.url }}/" class="bt b--light-silver flex justify-center items-center tc w-100 pa3 serif link outline-none gray hover-dark-gray hover-bg-nearest-white" style="height: 5em;">Top</a>
+    <a href="{{ site.url }}/" class="bt b--light-silver flex justify-center items-center tc w-100 pa3 serif link outline-none gray hover-dark-gray hover-bg-nearest-white x-top" style="height: 5em;">Top</a>
 
 
     {% if nextChapter.url %}
-      <a class="bt b--light-silver flex justify-end items-center w-100 tr pv3 pl3 serif link outline-none gray hover-dark-gray hover-bg-nearest-white" href="{{ nextChapter.url }}"
+      <a class="bt b--light-silver flex justify-end items-center w-100 tr pv3 pl3 serif link outline-none gray hover-dark-gray hover-bg-nearest-white x-next" href="{{ nextChapter.url }}"
       style="height: 5em;">
           {{ nextChapter.title }}<span class="sans-serif ml2">→</span>
       </a>

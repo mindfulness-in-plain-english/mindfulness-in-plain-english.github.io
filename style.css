@@ -73,3 +73,17 @@ h3 {
 .hover-bg-nearest-white:hover {
     background-color: #fafafa;
 }
+
+@media screen and (min-width: 40em) {
+    .x-top {
+        width: 20%;
+        flex: 0 0 auto;
+        border-right: 1px solid;
+        border-left: 1px solid;
+    }
+    .x-previous,
+    .x-next {
+        width: 40%;
+        flex: 1 1 auto;
+    }
+}
