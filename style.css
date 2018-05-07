@@ -1,3 +1,14 @@
+html,
+body {
+    @media screen and (min-width: 30em) {
+        /* PERF: https://marco.org/2012/11/15/text-rendering-optimize-legibility */
+        text-rendering: optimizeLegibility;
+    }
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+}
+
 .container {
     margin: auto;
 }
@@ -27,20 +38,35 @@ li {
     font-family: Source Serif Pro, georgia, times, serif;
 }
 
+p {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
 h2 {
     /* f5 */
-    font-size: 1rem;
+    font-size: 1.25rem;
     /* mt4 */
-    margin-top: 2rem;
-    font-weight: 600;
+    margin-top: 4rem;
+    font-weight: 700;
+}
+@media screen and (min-width: 30em) {
+    h2 {
+        font-size: 1.5rem;
+    }
 }
 
 h3 {
     /* f6 */
-    font-size: 0.875rem;
+    font-size: 1rem;
     /* mt3 */
-    margin-top: 1rem;
+    margin-top: 2rem;
     font-weight: 700;
+}
+@media screen and (min-width: 30em) {
+    h3 {
+        font-size: 1.25rem;
+    }
 }
 
 .hover-bg-nearest-white:focus,
