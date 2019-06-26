@@ -1,6 +1,6 @@
 # Site settings
 title: "Mindfulness in Plain English"
-description: "Modern web publication of the free version of the book Mindfulness in Plain English" # > this means to ignore newlines until "baseurl:"
+description: 'Read "Mindfulness in Plain English" online, a practical guide to Vipassana meditation.\nThe subject of this book is Vipassana meditation practice. Repeat, practice. This is a meditation manual, a nuts-and-bolts, step-by-step guide to Insight meditation. It is meant to be practical. It is meant for use.' # > this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://mindfulness-in-plain-english.github.io" # the base hostname & protocol for your site
 github_username: Soreine
