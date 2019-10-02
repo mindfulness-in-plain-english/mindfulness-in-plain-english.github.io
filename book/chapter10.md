@@ -4,6 +4,8 @@ chapter: 10
 title: "Dealing with problems"
 ---
 
+# Dealing with problems
+
 You are going to run into problems in your meditation. Everybody does. Problems come in all shapes and sizes, and the only thing you can be absolutely certain about is that you will have some. The main trick in dealing with obstacles is to adopt the right attitude. Difficulties are an integral part of your practice. They aren't something to be avoided. They are something to be used. They provide invaluable opportunities for learning.
 
 The reason we are all stuck in life's mud is that we ceaselessly run from our problems and after our desires. Meditation provides us with a laboratory situation in which we can examine this syndrome and devise strategies for dealing with it. The various snags and hassles that arise during meditation are grist for the mill. They are the material on which we work. There is no pleasure without some degree of pain. There is no pain without some amount of pleasure. Life is composed of joys and miseries. They go hand-in-hand. Meditation is no exception. You will experience good times and bad times, ecstasies and frightening times.

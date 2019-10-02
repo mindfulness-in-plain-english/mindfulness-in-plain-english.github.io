@@ -4,6 +4,8 @@ chapter: 2
 title: "What meditation isn't"
 ---
 
+# What meditation isn't
+
 Meditation is a word. You have heard this word before, or you would never have picked up this book. The thinking process operates by association, and all sorts of ideas are associated with the word 'meditation'. Some of them are probably accurate and others are hogwash. Some of them pertain more properly to other systems of meditation and have nothing to do with Vipassana practice. Before we proceed, it behooves us to blast some of the residue out of our own neuronal circuits so that new information can pass unimpeded. Let us start with some of the most obvious stuff.
 
 We are not going to teach you to contemplate your navel or to chant secret syllables. You are not conquering demons or harnessing invisible energies. There are no colored belts given for your performance and you don't have to shave your head or wear a turban. You don't even have to give away all your belongings and move to a monastery. In fact, unless your life is immoral and chaotic, you can probably get started right away and make some sort of progress. Sounds fairly encouraging, wouldn't you say?

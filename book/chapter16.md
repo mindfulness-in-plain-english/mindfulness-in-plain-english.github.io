@@ -4,6 +4,8 @@ chapter: 16
 title: "What's in it for you"
 ---
 
+# What's in it for you
+
 You can expect certain benefits from your meditation. The initial ones are practical, prosaic things; the later stages are profoundly transcendent. They run together from the simple to the sublime. We will set forth some of them here. Your own experience is all that counts.
 
 Those things that we called hindrances or defilements are more than just unpleasant mental habits. They are the primary manifestations of the ego process itself. The ego sense itself is essentially a feeling of separation -- a perception of distance between that which we call me, and that which we call other. This perception is held in place only if it is constantly exercised, and the hindrances constitute that exercise.

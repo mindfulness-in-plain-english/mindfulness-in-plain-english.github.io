@@ -4,6 +4,8 @@ chapter: 3
 title: "What meditation is"
 ---
 
+# What meditation is
+
 Meditation is a word, and words are used in different ways by different speakers. This may seem like a trivial point, but it is not. It is quite important to distinguish exactly what a particular speaker means by the words he uses. Every culture on earth, for example, has produced some sort of mental practice which might be termed meditation. It all depends on how loose a definition you give to that word. Everybody does it, from Africans to Eskimos. The techniques are enormously varied, and we will make no attempt to survey them. There are other books for that. For the purpose of this volume, we will restrict our discussion to those practices best known to Western audiences and most likely associated with the term meditation.
 
 Within the Judeo-Christian tradition we find two overlapping practices called prayer and contemplation. Prayer is a direct address to some spiritual entity. Contemplation in a prolonged period of conscious thought about some specific topic, usually a religious ideal or scriptural passage. From the standpoint of mental culture, both of these activities are exercises in concentration. The normal deluge of conscious thought is restricted, and the mind is brought to one conscious area of operation. The results are those you find in any concentrative practice: deep calm, a physiological slowing of the metabolism and a sense of peace and well-being.

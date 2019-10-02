@@ -4,6 +4,8 @@ chapter: 11
 title: "Dealing with distractions - I"
 ---
 
+# Dealing with distractions - I
+
 At some time, every meditator encounters distractions during practice, and methods are needed to deal with them. Some elegant stratagems have been devised to get you back on the track more quickly than trying to push your way through by sheer force of will. Concentration and mindfulness go hand-in-hand. Each one complements the other. If either one is weak, the other will eventually be affected. Bad days are usually characterized by poor concentration. Your mind just keeps floating around. You need some method of reestablishing your concentration, even in the face of mental adversity. Luckily, you have it. In fact you can take your choice from a traditional array of practical maneuvers.
 
 ## Maneuver 1: Time Gauging

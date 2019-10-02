@@ -4,6 +4,8 @@ chapter: 5
 title: "The practice"
 ---
 
+# The practice
+
 Although there are many subjects of meditation, we strongly recommend you start with focusing your total undivided attention on your breathing to gain some degree of shallow concentration. Remember that you are not practicing a deep absorption or pure concentration technique. You are practicing mindfulness for which you need only a certain degree of shallow concentration. You want to cultivate mindfulness culminating in insight and wisdom to realize the truth as it is. You want to know the working of your body-mind complex exactly as it is. You want to get rid of all psychological annoyance to make your life really peaceful and happy.
 
 The mind cannot be purified without seeing things as they really are. "Seeing things as they really are" is such a heavily loaded and ambiguous phrase. Many beginning meditators wonder what we mean, for anyone who has clear eye sight can see objects as they are.

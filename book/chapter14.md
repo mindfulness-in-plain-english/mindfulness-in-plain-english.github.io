@@ -4,6 +4,8 @@ chapter: 14
 title: "Mindfulness versus concentration"
 ---
 
+# Mindfulness versus concentration
+
 Vipassana meditation is something of a mental balancing act. You are going to be cultivating two separate qualities of the mind--mindfulness and concentration. Ideally these two work together as a team. They pull in tandem, so to speak. Therefore it is important to cultivate them side-by-side and in a balanced manner. If one of the factors is strengthened at the expense of the other, the balance of the mind is lost and meditation impossible.
 
 Concentration and mindfulness are distinctly different functions. They each have their role to play in meditation, and the relationship between them is definite and delicate. Concentration is often called one-pointedness of mind. It consists of forcing the mind to remain on one static point. Please note the word FORCE.

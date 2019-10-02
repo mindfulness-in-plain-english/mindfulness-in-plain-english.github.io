@@ -4,6 +4,8 @@ chapter: 0
 title: "Introduction: American Buddhism"
 ---
 
+# Introduction: American Buddhism
+
 The subject of this book is Vipassana meditation practice. Repeat, practice. This is a meditation manual, a nuts-and-bolts, step-by-step guide to Insight meditation. It is meant to be practical. It is meant for use.
 
 There are already many comprehensive books on Buddhism as a philosophy, and on the theoretical aspects of Buddhist meditation. If you are interested in that material we urge you to read those books. Many of them are excellent. This book is a 'How to.' It is written for those who actually want to meditate and especially for those who want to start now. There are very few qualified teachers of the Buddhist style of meditation in the United States of America. It is our intention to give you the basic data you need to get off to a flying start. Only those who follow the instructions given here can say whether we have succeeded or failed. Only those who actually meditate regularly and diligently can judge our effort. No book can possibly cover every problem that a meditator may run into. You will need to meet a qualified teacher eventually. In the mean time, however, these are the basic ground rules; a full understanding of these pages will take you a very long way.

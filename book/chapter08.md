@@ -4,6 +4,8 @@ chapter: 8
 title: "Structuring your meditation"
 ---
 
+# Structuring your meditation
+
 Everything up to this point has been theory. Now let's dive into the actual practice. Just how do we go about this thing called meditation.
 
 First of all, you need to establish a formal practice schedule, a specific period when you will do Vipassana meditation and nothing else. When you were a baby, you did not know how to walk. Somebody went to a lot of trouble to teach you that skill. They dragged you by the arms. They gave you lots of encouragement. Made you put one foot in front of the other until you could do it by yourself. Those periods of instruction constituted a formal practice in the art of walking.

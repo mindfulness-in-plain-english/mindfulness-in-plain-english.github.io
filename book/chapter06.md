@@ -4,6 +4,8 @@ chapter: 6
 title: "What to do with your body"
 ---
 
+# What to do with your body
+
 The practice of meditation has been going on for several thousand years. That is quite a bit of time for experimentation, and the procedure has been very, very thoroughly refined. Buddhist practice has always recognized that the mind and body are tightly linked and that each influences the other. Thus there are certain recommended physical practices which will greatly assist you to master your skill. And these practices should be followed. Keep in mind, however, that these postures are practice aids. Don't confuse the two. Meditation does not mean sitting in the lotus position. It is a mental skill. It can be practiced anywhere you wish. But these postures will help you learn this skill and they speed your progress and development. So use them.
 
 ## General Rules

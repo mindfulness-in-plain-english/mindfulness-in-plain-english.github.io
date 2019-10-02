@@ -4,6 +4,8 @@ chapter: 13
 title: "Mindfulness (Sati)"
 ---
 
+# Mindfulness (Sati)
+
 Mindfulness is the English translation of the Pali word Sati. Sati is an activity. What exactly is that? There can be no precise answer, at least not in words. Words are devised by the symbolic levels of the mind and they describe those realities with which symbolic thinking deals. Mindfulness is pre-symbolic. It is not shackled to logic. Nevertheless, Mindfulness can be experienced -- rather easily -- and it can be described, as long as you keep in mind that the words are only fingers pointing at the moon. They are not the thing itself. The actual experience lies beyond the words and above the symbols. Mindfulness could be describes in completely different terms than will be used here and each description could still be correct.
 
 Mindfulness is a subtle process that you are using at this very moment. The fact that this process lies above and beyond words does not make it unreal--quite the reverse. Mindfulness is the reality which gives rise to words--the words that follow are simply pale shadows of reality. So, it is important to understand that everything that follows here is analogy. It is not going to make perfect sense. It will always remain beyond verbal logic. But you can experience it. The meditation technique called Vipassana (insight) that was introduced by the Buddha about twenty-five centuries ago is a set of mental activities specifically aimed at experiencing a state of uninterrupted Mindfulness.

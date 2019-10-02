@@ -4,6 +4,8 @@ chapter: 4
 title: "Attitude"
 ---
 
+# Attitude
+
 Within the last century, Western science and physics have made a startling discovery. We are part of the world we view. The very process of our observation changes the things we observe. As an example, an electron is an extremely tiny item. It cannot be viewed without instrumentation, and that apparatus dictates what the observer will see. If you look at an electron in one way, it appears to be a particle, a hard little ball that bounces around in nice straight paths. When you view it another way, an electron appears to be a wave form, with nothing solid about it. It glows and wiggles all over the place. An electron is an event more than a thing. And the observer participates in that event by the very process of his or her observation. There is no way to avoid this interaction.
 
 Eastern science has recognized this basic principle for a very long time. The mind is a set of events, and the observer participates in those events every time he or she looks inward. Meditation is participatory observation. What you are looking at responds to the process of looking. What you are looking at is you, and what you see depends on how you look. Thus the process of meditation is extremely delicate, and the result depends absolutely on the state of mind of the meditator. The following attitudes are essential to success in practice. Most of them have been presented before. But we bring them together again here as a series of rules for application.
