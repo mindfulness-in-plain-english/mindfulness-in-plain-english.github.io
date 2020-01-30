@@ -6,6 +6,7 @@ The subject of this book is Vipassana meditation practice. Repeat, practice. Thi
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://mindfulness-in-plain-english.github.io" # the base hostname & protocol for your site
 github_username: Soreine
+github_url:  https://github.com/mindfulness-in-plain-english/mindfulness-in-plain-english.github.io
 permalink: pretty
 exlude:
   - css/style.styl
