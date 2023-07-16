@@ -2,7 +2,7 @@
 
 This is a modern Web publication of the free version of the book _Mindfulness in Plain English_ by Venerable Henepola Gunaratana.
 
-[I made](https://github.com/Soreine) this online publication because I could not find a typographically pleasant version of it. I have discovered this book thanks to its publication on [www.vipassana.com](http://www.vipassana.com/meditation/mindfulness_in_plain_english_1.php) for which I'm grateful.
+[I made](https://github.com/Soreine) this online publication because I could not find a typographically pleasant version of it. I have discovered this book thanks to its publication on [www.vipassana.com](https://www.vipassana.com/meditation/mindfulness_in_plain_english.html) for which I'm grateful.
 
 ## Contributing
 
