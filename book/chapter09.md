@@ -71,4 +71,4 @@ When you hate somebody you think, "Let him be ugly. Let him lie in pain. Let him
 
 Therefore we recommend very strongly that you practice loving- kindness before you start your serious practice of meditation. Repeat the proceeding passages very mindfully and meaningfully. As you recite these passages, feel true loving-kindness within yourself first and then share it with others, for you cannot share with others what you do not have within yourself.
 
-Remember, though, these are not magic formulas. They don't work by themselves. If you use them as such, you will simply waste time and energy. But if you truly participate in these statements and invest them with your own energy, they will serve you will. Give them a try. See for yourself.
+Remember, though, these are not magic formulas. They don't work by themselves. If you use them as such, you will simply waste time and energy. But if you truly participate in these statements and invest them with your own energy, they will serve you well. Give them a try. See for yourself.
